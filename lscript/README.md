@@ -1,4 +1,5 @@
 *The lazy script has not been updated for a while due to me being very busy with my life. I will try my best to upload an update when I find the time*
+*i stole this in order to learn azure devops*
 
 ## Welcome to the LAZY script  v2.1.4
 <p align="center">
